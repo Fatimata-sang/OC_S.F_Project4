@@ -23,7 +23,8 @@ Ce programme a été développé en utilisant la version 3.10.11 de Python
 ## Cloner le projet
 
 ```
-git clone https://github.com/Fatimata-sang/P7_SANGARE_Fatimata_Fatim.git
+https://github.com/Fatimata-sang/OC_S.F_Project4.git
+
 ```
 ## Créer un environnement virtuel
 
